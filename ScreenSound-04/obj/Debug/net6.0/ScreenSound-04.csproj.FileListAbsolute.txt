@@ -26,3 +26,4 @@ E:\Cursos\Alura\C#\4 - C# - consumindo API, gravando arquivos e utilizando o LIN
 E:\Cursos\Alura\C#\4 - C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.pdb
 E:\Cursos\Alura\C#\4 - C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.genruntimeconfig.cache
 E:\Cursos\Alura\C#\4 - C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ref\ScreenSound-04.dll
+E:\Cursos\Alura\C#\4 - C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.sourcelink.json
