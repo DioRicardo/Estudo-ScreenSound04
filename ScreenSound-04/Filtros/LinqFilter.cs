@@ -46,4 +46,17 @@ internal class LinqFilter
             Console.WriteLine(musica);
         }
     }
+
+    public static void ExibirMusicasPorTonalidade(List<Musica> musicas, string tonalidade)
+    {
+        var musicasPorTonalidade = musicas.Where(musica => musica.Tom.Equals(tonalidade)).OrderBy(musica => musica.Nome).ToList();
+
+        Console.WriteLine($"Exibindo músicas da tonalidade {tonalidade}:");
+
+        foreach(var musica in musicasPorTonalidade)
+        {
+            musica.ExibirDetalhesDaMusica();
+            Console.WriteLine();
+        }
+    }
 }
